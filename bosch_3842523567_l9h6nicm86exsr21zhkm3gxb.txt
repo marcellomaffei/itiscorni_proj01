@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-05112015-062679";"";
+"REFERENCE";"3842523567";"";
+"TraceParts.PartTitle";"Elementi di giunto";"";
+"TraceParts.InstanceId";"30-05112015-0626795SGXSY1XWCHCM5DB21IT8JXEC";"";
+"DESIGN";"ANGOLARE 45X90";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Bosch Rexroth AG";"";
+"TraceParts.PartVersion";"1.1.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"it";"";
+"TraceParts.ClassPath";"BOSCH:30-05112015-062679";"";

@@ -1,0 +1,30 @@
+Conversione file Solid Edge in STEP
+Data: venerdì,novembre 22,2019 12:17
+File di output: C:\Users\mmaffei\Desktop\prova_disegno\PROGETTO_RELAZIONE\braccio_antropomorfo.stp
+Autore: Unknown
+Organizzazione: Unknown
+Sistema sorgente: Solid Edge
+
+Hardware:
+Processore: Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz
+Sistema operativo: Windows 8 Professional
+Memoria installata: 15.89 GB
+
+Informazioni sul software
+Versione Parasolid: 30.0.167
+Versione PSBodyShop: 30.0.81
+Versione step adattatore: 3.0.52
+Versione Solid Edge: 110.00.03.003 x64
+
+Opzioni di esportazione STEP
+Esporta formato: AP242
+Esporta lamiere costruzione: Off
+Esporta corpi costruzione: Off
+Esporta cavi costruzione: Off
+Esporta solo parti visualizzate: Off
+Unità esportazione: Millimeters
+Esporta nomi componenti parte come Unicode: Off
+
+Fase 1 di 1 Conversione dati Parasolid in tipi di dati esterni...
+Processo di conversione completato
+Tempo necessario per la conversione:00 : 00 : 04
